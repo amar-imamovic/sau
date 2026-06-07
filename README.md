@@ -1,5 +1,6 @@
 # Hack The Box - Easy - Sau
 
+
 ## Enumeration
 
 - Command ( Host ): sudo nmap 10.129.229.26 -sT -sV -sC -p- -O -oN nmap-initial-scan.txt
